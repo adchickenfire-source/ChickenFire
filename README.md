@@ -16,6 +16,14 @@ A cartoon tank adventure game. Collect 20 unique tanks, clear stages across the 
 
 - 플랫폼 · Platform: Android (Google Play) — 출시 준비 중 · Coming soon
 
+### 내 꿈은 대통령 (My Dream Is President)
+
+가상의 나라 아르덴 공화국에서 열여덟 살부터 직업을 고르고 일하며 대통령을 꿈꾸는 인생 시뮬레이션입니다.
+
+A life simulation set in the fictional Republic of Arden: pick a career at eighteen, work, and chase the presidency.
+
+- 플랫폼 · Platform: Android (Google Play) — 출시 준비 중 · Coming soon
+
 ---
 
 ## 문의 · Contact
